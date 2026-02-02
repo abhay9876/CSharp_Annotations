@@ -25,7 +25,7 @@ The `annotations` branch includes hands-on practice for the complete attribute w
 
 ---
 
-## 📝 Exercises & Practice Problems
+##  Exercises & Practice Problems
 
 ### Core Attribute Exercises
 
